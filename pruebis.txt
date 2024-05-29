@@ -1,0 +1,26 @@
+Microsoft Windows [Versión 10.0.22621.3593]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\sofyg>cd OneDrive\Escritorio\pruebita
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita>cd .git
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita>git init
+Initialized empty Git repository in C:/Users/sofyg/OneDrive/Escritorio/pruebita/.git/
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita>cd .git
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita\.git>cd ..
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\sofyg\OneDrive\Escritorio\pruebita>
